@@ -1,6 +1,6 @@
 
 import './App.css';
-import React, { useEffect } from 'React';
+import React, { useEffect } from 'react';
 
 function App() {
 
